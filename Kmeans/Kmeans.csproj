@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dataset\Dataset.csproj">
+      <Project>{0ca59771-900b-4546-b89c-10132b02e2d3}</Project>
+      <Name>Dataset</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

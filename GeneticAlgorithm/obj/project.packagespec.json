@@ -1,0 +1,39 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/GeneticAlgorithm.csproj",
+    "projectName": "GeneticAlgorithm",
+    "projectPath": "/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/GeneticAlgorithm.csproj",
+    "outputPath": "/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/home/steven/RiderProjects/DataScience2/Dataset/bin/Debug/netstandard1.4/Dataset.deps.json
+/home/steven/RiderProjects/DataScience2/Dataset/obj/Debug/netstandard1.4/Dataset.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/DataScience2/Dataset/obj/Debug/netstandard1.4/Dataset.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/DataScience2/Dataset/obj/Debug/netstandard1.4/Dataset.AssemblyInfo.cs
+/home/steven/RiderProjects/DataScience2/Dataset/bin/Debug/netstandard1.4/Dataset.dll
+/home/steven/RiderProjects/DataScience2/Dataset/bin/Debug/netstandard1.4/Dataset.pdb
+/home/steven/RiderProjects/DataScience2/Dataset/obj/Debug/netstandard1.4/Dataset.dll
+/home/steven/RiderProjects/DataScience2/Dataset/obj/Debug/netstandard1.4/Dataset.pdb

@@ -1,0 +1,12 @@
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Kmeans.deps.json
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Kmeans.runtimeconfig.json
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Kmeans.runtimeconfig.dev.json
+/home/steven/RiderProjects/DataScience2/Kmeans/obj/Debug/netcoreapp1.1/Kmeans.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/DataScience2/Kmeans/obj/Debug/netcoreapp1.1/Kmeans.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/DataScience2/Kmeans/obj/Debug/netcoreapp1.1/Kmeans.AssemblyInfo.cs
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Kmeans.dll
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Kmeans.pdb
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Dataset.dll
+/home/steven/RiderProjects/DataScience2/Kmeans/bin/Debug/netcoreapp1.1/Dataset.pdb
+/home/steven/RiderProjects/DataScience2/Kmeans/obj/Debug/netcoreapp1.1/Kmeans.dll
+/home/steven/RiderProjects/DataScience2/Kmeans/obj/Debug/netcoreapp1.1/Kmeans.pdb

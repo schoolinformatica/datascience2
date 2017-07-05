@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/steven/RiderProjects/DataScience2/Dataset/Dataset.csproj",
+    "projectName": "Dataset",
+    "projectPath": "/home/steven/RiderProjects/DataScience2/Dataset/Dataset.csproj",
+    "outputPath": "/home/steven/RiderProjects/DataScience2/Dataset/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}

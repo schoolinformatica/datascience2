@@ -1,0 +1,10 @@
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/bin/Debug/netcoreapp1.1/GeneticAlgorithm.deps.json
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/bin/Debug/netcoreapp1.1/GeneticAlgorithm.runtimeconfig.json
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/bin/Debug/netcoreapp1.1/GeneticAlgorithm.runtimeconfig.dev.json
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/Debug/netcoreapp1.1/GeneticAlgorithm.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/Debug/netcoreapp1.1/GeneticAlgorithm.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/Debug/netcoreapp1.1/GeneticAlgorithm.AssemblyInfo.cs
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/bin/Debug/netcoreapp1.1/GeneticAlgorithm.dll
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/bin/Debug/netcoreapp1.1/GeneticAlgorithm.pdb
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/Debug/netcoreapp1.1/GeneticAlgorithm.dll
+/home/steven/RiderProjects/DataScience2/GeneticAlgorithm/obj/Debug/netcoreapp1.1/GeneticAlgorithm.pdb
