@@ -7,7 +7,7 @@ namespace GeneticAlgorithm
     {
         static void Main(string[] args)
         {            
-            var geneticAlgo = new GeneticAlgorithm<MyInt>(new MaximizationFunction(), 100, 10, 0.01, 0.8, true);
+            var geneticAlgo = new GeneticAlgorithm<MyInt>(new FitnessOral(), 10, 10, 0.1, 0.85, true);
             geneticAlgo.Run(); 
         }
     }

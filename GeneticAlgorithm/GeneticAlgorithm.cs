@@ -35,7 +35,8 @@ namespace GeneticAlgorithm
             {
                 var fitnesses = ComputeFitnesses(currentPopulation);
                 var newPopulation = new T[_populationSize];
-
+                PrintCurrentPopulation(currentPopulation, fitnesses, generation);
+                PrintResult(currentPopulation, fitnesses);
                 var startIndex = 0;
 
                 if (_elitism)
@@ -73,8 +74,13 @@ namespace GeneticAlgorithm
                 }
                 
                 currentPopulation = newPopulation;
-                PrintCurrentPopulation(currentPopulation, fitnesses, generation);
-                PrintResult(currentPopulation, fitnesses);
+
+                if (generation + 1 == _maxGenerations)
+                {
+                    fitnesses = ComputeFitnesses(currentPopulation);
+                    PrintCurrentPopulation(currentPopulation, fitnesses, generation + 1);
+                    PrintResult(currentPopulation, fitnesses);
+                }
             }
             
         }
