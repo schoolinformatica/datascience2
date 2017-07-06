@@ -32,7 +32,7 @@ namespace GeneticAlgorithm
 
         public Tuple<MyInt, MyInt> SelectParents(MyInt[] individuals, double[] fitnesses)
         {
-            var minFitness = Math.Abs(fitnesses.Min() + 1);
+            var minFitness = Math.Abs(fitnesses.Min()) + 1;
             var totalFitness = 0.0;
             var individualsWithFitness = new List<Tuple<MyInt, double>>();
             var parents = new List<MyInt>();

@@ -19,15 +19,15 @@ namespace GeneticAlgorithm
             Console.WriteLine($"A {a}, B {b}, C {c}, D {d}, E {e}");
             if (a.AsInt() + b.AsInt() == 0)
                 return -1000;
-            var devision = a.AsInt() / ((a.AsInt() + b.AsInt()) * (c.AsInt() + 1.0));
+            var devision = d.AsInt() / ((a.AsInt() + b.AsInt()) * (c.AsInt() + 1.0));
             var fitness = 1.0 / (1.0 + (devision + e.AsInt()) - 13.0);
             return fitness;
         }
 
         public MyInt CreateIndividual()
         {
-//            return new MyInt(_r.Next(0, 32767));
-            return new MyInt(574);
+            return new MyInt(_r.Next(0, 32767));
+//            return new MyInt(574);
         }
 
         public MyInt Mutate(MyInt individual, double mutationRate)
